@@ -1,1 +1,1 @@
-### Thingking Machine
+### Meta-Truth

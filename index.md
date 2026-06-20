@@ -1,45 +1,45 @@
 ---
 layout: home
-title: Thingking Machine
+title: Meta-Truth
 ---
-# Thingking Machine
+# Meta-Truth
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Meta-Truth (meta)](https://meta-truth.github.io/meta/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Meta-Truth (gemini)](https://meta-truth.github.io/gemini/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Meta-Truth (geminit)](https://meta-truth.github.io/geminit/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Meta-Truth (openai)](https://meta-truth.github.io/openai/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
+[Meta-Truth (openaic)](https://meta-truth.github.io/openaic/)
 
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
+[Meta-Truth (oaio)](https://meta-truth.github.io/oaio/)
 
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
+[Meta-Truth (grok)](https://meta-truth.github.io/grok/)
 
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
+[Meta-Truth (grokf)](https://meta-truth.github.io/grokf/)
 
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
+[Meta-Truth (grokc)](https://meta-truth.github.io/grokc/)
 
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
+[Meta-Truth (fireworks)](https://meta-truth.github.io/fireworks/)
 
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
+[Meta-Truth (fireworksr)](https://meta-truth.github.io/fireworksr/)
 
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
+[Meta-Truth (fireworkc)](https://meta-truth.github.io/fireworkc/)
 
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
+[Meta-Truth (depsek)](https://meta-truth.github.io/depsek/)
 
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
+[Meta-Truth (depsekc)](https://meta-truth.github.io/depsekc/)
 
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
+[Meta-Truth (depsekr)](https://meta-truth.github.io/depsekr/)
 
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Meta-Truth (depsekrp)](https://meta-truth.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Meta-Truth is just one of participants of the [Multilogue](multilogue)
